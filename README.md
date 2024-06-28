@@ -1,1 +1,3 @@
 # AboutMe
+
+Color Palette: https://colorhunt.co/palette/222831393e46d65a31eeeeee
